@@ -1,1 +1,3 @@
-function name(params) {}
+function name(params) {
+  console.log(name)
+}
